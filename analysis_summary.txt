@@ -1,0 +1,7 @@
+Product Analysis Summary
+======================
+
+Total Products: 1000
+Total Ratings: 5000
+Average Rating: 3.01
+Price-Rating Correlation: 0.03
